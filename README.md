@@ -1,4 +1,4 @@
-### Olá! Eu sou a Carol Czeder!
+### Olá! Eu sou a Carol Czeder! 🧏
 
 - 👩‍💻 Desenvolvedora Front-end em Evolução.
 - 🎯 Apaixonada por Transformar Ideias em Experiências Digitais.
