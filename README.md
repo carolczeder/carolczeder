@@ -2,7 +2,7 @@
 
 - 👩‍💻 Desenvolvedora Front-end em Evolução.
 - 🎯 Apaixonada por Transformar Ideias em Experiências Digitais.
-- 🔭 Formada em Marketing e atualmente fazendo Pós graduação em Desenvolvimento Web.
+- 🔭 Formada em Marketing Digital e atualmente fazendo Pós graduação em Desenvolvimento Web.
 
 ## Tecnologias
 [![HTML](https://img.shields.io/badge/-HTML-ccb0ab?style=for-the-badge&logo=html5&logoColor=1b1b1b)](#)
