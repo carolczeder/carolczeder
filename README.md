@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Carol Czeder! 🧏
 
-- 👩‍💻 Desenvolvedora em Evolução.
+- 👩‍💻 Desenvolvedora de Software em Evolução.
 - 🎯 Apaixonada por Transformar Ideias em Experiências Digitais.
 - 🔭 Sou graduada em Marketing Digital e estou atualmente cursando Análise e Desenvolvimento de Sistemas.
 ## Tecnologias
