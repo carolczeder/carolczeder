@@ -1,7 +1,5 @@
 # Olá! Sou a Carol Czeder
 
-### Data Engineer · Python · SQL · GCP
-
 Dados bem estruturados mudam decisões. É isso que eu faço. Pós-graduada em Inteligência Artificial e Machine Learning.
 
 ---
