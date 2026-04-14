@@ -1,4 +1,4 @@
-# Olá! Sou a Carol Czeder 👋
+# Olá! Sou a Carol Czeder
 
 ### Data Engineer · Python · SQL · GCP
 
