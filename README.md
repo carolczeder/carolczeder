@@ -1,17 +1,18 @@
-# Olá! Sou a Carol Czeder 💻🌻
+# Olá! Sou a Carol Czeder 👋
 
 ### Data Engineer · Python · SQL · GCP
 
-Apaixonada por transformar dados em valor. Desenvolvo pipelines de dados e projetos analíticos com foco em engenharia de dados. Pós-graduada em Inteligência Artificial e Machine Learning.
+Dados bem estruturados mudam decisões. É isso que eu faço. Pós-graduada em Inteligência Artificial e Machine Learning.
 
 ---
 
-### 🔧 O que estou fazendo
+### ⚙️ Experiência & Projetos
 
-- 🚀 Construindo pipelines de dados com Python, Airflow e PostgreSQL
-- 📊 Desenvolvendo dashboards analíticos no Looker Studio
-- 📚 Explorando Databricks e GCP
-- 🌱 Aprofundando conhecimentos em SQL e modelagem de dados
+- 🏗️ Implementei pipeline completo de extração, transformação e carga de dados com arquitetura medallion no BigQuery
+- 🔍 Realizo consultas e análises em BigQuery para geração de insights e suporte a decisões de negócio
+- 📊 Crio e mantenho dashboards analíticos no Looker Studio conectados a camadas de dados tratados
+- 🐍 Desenvolvo scripts Python para automação de pipelines e integração entre plataformas
+- 🚀 Construo pipelines orquestrados com Apache Airflow e PostgreSQL em ambiente Docker
 
 ---
 
