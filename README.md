@@ -1,6 +1,6 @@
 # Olá, sou a Carol!
 
-Transformo dados em decisões — e modelos em soluções.
+Transformo dados em decisões e modelos em soluções.
 Pós-graduada em Inteligência Artificial e Machine Learning.
 
 ---
